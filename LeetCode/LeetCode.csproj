@@ -46,7 +46,8 @@
     <Compile Include="Classmate.cs" />
     <Compile Include="GoodStudent.cs" />
     <Compile Include="LinkedNode.cs" />
-    <Compile Include="Symmetric .cs" />
+    <Compile Include="ProgramMain.cs" />
+    <Compile Include="Queue.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
